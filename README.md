@@ -3,7 +3,10 @@
  ---- 
 |机型|开发版|稳定版|
 | :----: | :----: | :----: |
+|Redmi K40| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40.md)|
+|Redmi K40 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40%20Pro.md)|
 |小米11| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米11.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米11.md)|
+|小米11 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米11%20Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米11%20Ultra.md)|
 |小米10| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10.md)|
 |小米10Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10Pro.md)|
 |小米10 Ultra| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10%20Ultra.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10%20Ultra.md)|
@@ -44,5 +47,6 @@
 |Redmi 10X 5G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X%205G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X%205G.md)|
 |Redmi 10X Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X%20Pro.md)|
 |Redmi 10X| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%2010X.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%2010X.md)|
+|小米10S| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10S.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10S.md)|
  ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。

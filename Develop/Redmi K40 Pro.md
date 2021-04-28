@@ -1,0 +1,25 @@
+| Redmi K40 Pro  开发版/内测版    |
+| ---- |
+| [miui_HAYDN_21.4.23_8e054184cc_11.0.zip](https://hugeota.d.miui.com/21.4.23/miui_HAYDN_21.4.23_8e054184cc_11.0.zip)    |
+| [miui_HAYDN_21.4.22_b45e4df1c3_11.0.zip](https://hugeota.d.miui.com/21.4.22/miui_HAYDN_21.4.22_b45e4df1c3_11.0.zip)    |
+| [miui_HAYDN_21.4.21_f246cb5664_11.0.zip](https://hugeota.d.miui.com/21.4.21/miui_HAYDN_21.4.21_f246cb5664_11.0.zip)    |
+| [miui_HAYDN_21.4.20_5b88b272e5_11.0.zip](https://hugeota.d.miui.com/21.4.20/miui_HAYDN_21.4.20_5b88b272e5_11.0.zip)    |
+| [miui_HAYDN_21.4.19_ae5559de45_11.0.zip](https://hugeota.d.miui.com/21.4.19/miui_HAYDN_21.4.19_ae5559de45_11.0.zip)    |
+| [miui_HAYDN_21.4.16_8ead691a5f_11.0.zip](https://hugeota.d.miui.com/21.4.16/miui_HAYDN_21.4.16_8ead691a5f_11.0.zip)    |
+| [miui_HAYDN_21.4.14_92c98d071f_11.0.zip](https://hugeota.d.miui.com/21.4.14/miui_HAYDN_21.4.14_92c98d071f_11.0.zip)    |
+| [miui_HAYDN_21.4.13_68395db50a_11.0.zip](https://hugeota.d.miui.com/21.4.13/miui_HAYDN_21.4.13_68395db50a_11.0.zip)    |
+| [miui_HAYDN_21.4.12_28b02ceff7_11.0.zip](https://hugeota.d.miui.com/21.4.12/miui_HAYDN_21.4.12_28b02ceff7_11.0.zip)    |
+| [miui_HAYDN_21.4.10_8a75d0c0cf_11.0.zip](https://hugeota.d.miui.com/21.4.10/miui_HAYDN_21.4.10_8a75d0c0cf_11.0.zip)    |
+| [miui_HAYDN_21.4.8_bdb8c023b0_11.0.zip](https://hugeota.d.miui.com/21.4.8/miui_HAYDN_21.4.8_bdb8c023b0_11.0.zip)    |
+| [miui_HAYDN_21.4.6_0ee3c80036_11.0.zip](https://hugeota.d.miui.com/21.4.6/miui_HAYDN_21.4.6_0ee3c80036_11.0.zip)    |
+| [miui_HAYDN_21.4.2_ae6ba77c95_11.0.zip](https://hugeota.d.miui.com/21.4.2/miui_HAYDN_21.4.2_ae6ba77c95_11.0.zip)    |
+| [miui_HAYDN_21.4.1_ec4b13ac3e_11.0.zip](https://hugeota.d.miui.com/21.4.1/miui_HAYDN_21.4.1_ec4b13ac3e_11.0.zip)    |
+| [miui_HAYDN_21.3.31_26962bab9e_11.0.zip](https://hugeota.d.miui.com/21.3.31/miui_HAYDN_21.3.31_26962bab9e_11.0.zip)    |
+| [miui_HAYDN_21.3.25_cad2cf338f_11.0.zip](https://hugeota.d.miui.com/21.3.25/miui_HAYDN_21.3.25_cad2cf338f_11.0.zip)    |
+| [miui_HAYDN_21.3.24_3ed2fa051a_11.0.zip](https://hugeota.d.miui.com/21.3.24/miui_HAYDN_21.3.24_3ed2fa051a_11.0.zip)    |
+| [miui_HAYDN_21.3.23_75f8762a21_11.0.zip](https://hugeota.d.miui.com/21.3.23/miui_HAYDN_21.3.23_75f8762a21_11.0.zip)    |
+| [miui_HAYDN_21.3.22_4ac6072de0_11.0.zip](https://hugeota.d.miui.com/21.3.22/miui_HAYDN_21.3.22_4ac6072de0_11.0.zip)    |
+| [miui_HAYDN_21.3.17_fac5292610_11.0.zip](https://hugeota.d.miui.com/21.3.17/miui_HAYDN_21.3.17_fac5292610_11.0.zip)    |
+| [miui_HAYDN_21.3.16_8abf8c13cd_11.0.zip](https://hugeota.d.miui.com/21.3.16/miui_HAYDN_21.3.16_8abf8c13cd_11.0.zip)    |
+| [miui_HAYDN_21.3.15_e13fa2b301_11.0.zip](https://hugeota.d.miui.com/21.3.15/miui_HAYDN_21.3.15_e13fa2b301_11.0.zip)    |
+| [miui_HAYDN_21.3.12_ca67f1fca8_11.0.zip](https://hugeota.d.miui.com/21.3.12/miui_HAYDN_21.3.12_ca67f1fca8_11.0.zip)    |
